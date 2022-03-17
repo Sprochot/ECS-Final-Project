@@ -1,0 +1,60 @@
+body {
+}
+h1 {
+  max-width: 100%%;
+  max-height: 100%;
+  background-image: linear-gradient(to right, #FADCD2, white);
+  padding: 10px;
+  border: 2px solid black;
+  margin: 0px;
+  font-size: 26pt;
+}
+h2 {
+  font-size: 24pt;
+}
+pre {
+  font-size: 18pt;
+  text-align: left;
+  max-width: 100%;
+}
+hr {
+  background: black;
+  height: 1px;
+  border: 0px;
+}
+.introduction {
+  font-size: 20pt;
+  font-family: Bradley Hand;
+  max-width: 60ch;
+}
+.introduction:first-letter {
+  font-size: 200%;
+}
+.body {
+	font-family: "Optima";
+	line-height: 1.25;
+}
+.ingredients_list {
+	font-size: 20pt;
+}
+.ingredients_body {
+  max-width: 100%;
+  max-height: 100%;
+  padding: 10px;
+  background: linear-gradient(to right, #FADCD2, white);
+  border: 2px solid black;
+  margin: 0px;
+}
+.contents_list {
+	font-size: 20pt;
+}
+.contents_body {
+  max-width: 100%;
+  max-height: 100%;
+  padding: 10px;
+  background: linear-gradient(to right, #FADCD2, white);
+  border: 2px solid black;
+  margin:0px;
+  border-style: dashed;
+  
+}
